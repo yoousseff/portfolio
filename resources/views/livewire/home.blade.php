@@ -6,7 +6,7 @@
             <div class="w-[576px] h-[585px] flex justify-center items-center border-4 rounded-t-full border-gray-200">
                 <div
                     class="w-[443px] h-[451px]  border-4 flex justify-center items-center rounded-t-full border-gray-200">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Kit_harrington_by_sachyn_mital_%28cropped_2%29.jpg"
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQTb3Fp_DoCmuMr9Iktvv-QsPB4eQuN-DTTD0-pcCvSTGjlm0y0AJ7K-ZoCLMmBBUhLU0&usqp=CAU"
                         class="w-[443px] h-[442px] rounded-t-full" alt="">
                 </div>
 
